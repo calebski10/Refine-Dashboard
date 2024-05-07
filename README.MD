@@ -47,3 +47,9 @@ To learn more about **Refine**, please check out the [Documentation](https://ref
 ## License
 
 MIT
+package used
+npm run codegen
+npm run dayjs
+npm install @ant-design/plots@1.2.5
+npm install @uiw/react-md-editor
+npm install @dnd-kit/core
